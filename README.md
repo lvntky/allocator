@@ -1,6 +1,7 @@
 # Allocator 
+![do you even c](./photo.jpg)
 Allocator is a simple dynamic memory allocation library.
-It implements , malloc(), realloc() and free() functions.
+It implements , malloc(), calloc(), realloc() and free() functions.
 
 ## How it's work?
 
